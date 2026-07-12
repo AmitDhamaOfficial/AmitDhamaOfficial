@@ -2,7 +2,7 @@
 
 💻 Second-Year B.Tech (CSE) Student | AKTU Student | B.Tech CSE’ 29 | Building Skills in Coding, Development & Research  
 🌐 Aspiring Web Developer | Java Enthusiast | Open Source Contributor | DSA Learning  
-🎯 Focused on PHP, WordPress, JavaScript, and full-stack web development
+🎯 Focused on PHP, WordPress, JavaScript, DSA and full-stack web development
 
 ## 🚀 Skills & Tools
 - **Languages:** C-(Programming Language), Java, JavaScript, HTML, CSS, MySQL  
