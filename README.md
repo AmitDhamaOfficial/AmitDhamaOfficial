@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Dhama
 
-💻 Second-Year B.Tech (CSE) Student | AKTU Student | B.Tech CSE’ 29 | Building Skills in Coding, Development & Research  
+💻 Second-Year B.Tech (CSE) Student | Learning and Building strong DSA and System Design | AKTU Student | B.Tech CSE’ 29 | Building Skills in Coding, Development & Research  
 🌐 Aspiring Web Developer | Java Enthusiast | Open Source Contributor | DSA Learning  
 🎯 Focused on PHP, WordPress, JavaScript, DSA and full-stack web development
 
@@ -9,8 +9,9 @@
 - **Tools:** Git, GitHub, VS Code  
 
 ## 🌱 Currently Learning
+- Learning and Building strong DSA and System Design
 - PHP & WordPress development  
-- Advanced Web Design Principles  
+- Web Design Principles  
 - Making real contributions to open-source projects
 
 ## 🤝 Looking to Collaborate On
@@ -20,7 +21,7 @@
 
 ## 📫 Connect With Me
 📧 amitdhama2007@gmail.com  
-📧 amitdhama20071@outlook.com  
+📧 amitdhama2007@outlook.com
 🔗 [LinkedIn](https://www.linkedin.com/in/amit-dhama-648586371)
 
 ---
