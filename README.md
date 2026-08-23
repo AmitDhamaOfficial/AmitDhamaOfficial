@@ -28,6 +28,9 @@
 
 ⚡ **Fun Fact:** I love solving real-world coding challenges and reading tech blogs & fiction during downtime.
 
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit-Dhama&show_icons=true&theme=ayu-mirage)
+
+
 <!--
 **Amit-Dhama/Amit-Dhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
