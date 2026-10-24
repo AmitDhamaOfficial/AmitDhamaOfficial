@@ -5,8 +5,10 @@
 🎯 Focused on PHP, WordPress, JavaScript, DSA and full-stack web development
 
 ## 🚀 Skills & Tools
-- **Languages:** C-(Programming Language), Java, JavaScript, HTML, CSS, MySQL  
-- **Tools:** Git, GitHub, VS Code  
+- **Languages:** C-(Programming Language), Java, C++, JavaScript, HTML, CSS, MySQL
+- **Tools:** Git, GitHub, VS Code
+- **System Design:** HLD (High-Level Design), LLD (Low Level Design)
+- - **DataBase Management System:** SQL(Structured Query Language) in MySQ
 
 ## 🌱 Currently Learning
 - Learning and Building strong DSA and System Design
@@ -21,8 +23,10 @@
 
 ## 📫 Connect With Me
 📧 amitdhama2007@gmail.com  
-📧 amitdhama2007@outlook.com
-🔗 [LinkedIn](https://www.linkedin.com/in/amit-dhama-648586371)
+📧 amitdhama20071@outlook.com
+🔗 [LinkedIn](https://www.linkedin.com/in/amitdhamaofficial/)
+🔗 [LeetCode](https://leetcode.com/u/AmitDhama/)
+🔗 [GitHub](https://github.com/AmitDhamaOfficial)
 
 ---
 
